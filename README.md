@@ -31,4 +31,4 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
 4. Ejecuta el proyecto:
    `bunx --bun astro dev o npm run dev`
 
-<a href="https://spotify-clone-b3w2bwz0o-julian-david-perezs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Visita</a> en tu navegador para ver la aplicación en funcionamiento.
+<a href="https://spotify-clone-julian-david-perezs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Visita</a> en tu navegador para ver la aplicación en funcionamiento.
