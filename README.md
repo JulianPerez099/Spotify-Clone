@@ -8,30 +8,27 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
 
 - Interfaz de usuario similar a Spotify.
 - Reproducción de música.
-- Funcionalidades de búsqueda, playlists y perfiles de usuario.
-- Diseño adaptable a diferentes dispositivos (responsive design).
 
 ## Tecnologías utilizadas
 
-- [Astro](https://astro.build/)
-- [Otros frameworks y bibliotecas relevantes]
+- <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">Astro</a>
+- <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>
+- <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a>
+- <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">Tailwind CSS</a>
+- <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a>
 
 ## Instalación
 
 1. Clona este repositorio:
-   `git clone https://github.com/midudev/spotify-astro-clone.git`
+   `git clone https://github.com/JulianPerez099/Spotify-Clone`
 
 2. Navega a la carpeta del proyecto:
-   `cd spotify-astro-clone`
+   `cd spotify-clone`
 
 3. Instala las dependencias:
    `bun install o npm install`
 
 4. Ejecuta el proyecto:
-   `bunx --bun astro dev o npm run astro dev`
+   `bunx --bun astro dev o npm run dev`
 
-Visita `http://localhost:3000` en tu navegador para ver la aplicación en funcionamiento.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+<a href="https://spotify-clone-b3w2bwz0o-julian-david-perezs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Visita</a> en tu navegador para ver la aplicación en funcionamiento.
